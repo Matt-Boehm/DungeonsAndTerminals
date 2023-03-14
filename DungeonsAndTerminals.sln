@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonsAndTerminals", "DungeonsAndTerminals\DungeonsAndTerminals.csproj", "{B096CCCF-9805-421C-AA26-FB8FDA2F0AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B096CCCF-9805-421C-AA26-FB8FDA2F0AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B096CCCF-9805-421C-AA26-FB8FDA2F0AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B096CCCF-9805-421C-AA26-FB8FDA2F0AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B096CCCF-9805-421C-AA26-FB8FDA2F0AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43429D1A-8B80-4CAB-8053-D56EB8B24DD2}
+	EndGlobalSection
+EndGlobal
